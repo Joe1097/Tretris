@@ -1,0 +1,33 @@
+C:\Users\Usuario\Desktop\Tretris\Tretris\bin\Debug\Tretris.exe.config
+C:\Users\Usuario\Desktop\Tetris_Proyect\Tretris\Tretris\bin\Debug\Tretris.exe.config
+C:\Users\Usuario\Desktop\Tetris_Proyect\Tretris\Tretris\bin\Debug\Tretris.exe
+C:\Users\Usuario\Desktop\Tetris_Proyect\Tretris\Tretris\bin\Debug\Tretris.pdb
+C:\Users\Usuario\Desktop\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.tetris.resources
+C:\Users\Usuario\Desktop\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.exe
+C:\Users\Usuario\Desktop\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.pdb
+F:\Tetris_Proyect\Tretris\Tretris\bin\Debug\Tretris.exe.config
+F:\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.exe
+F:\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.pdb
+C:\Users\José Manuel\Documents\Universidad\Tetris_Proyect\Tretris\Tretris\bin\Debug\Tretris.exe.config
+C:\Users\José Manuel\Documents\Universidad\Tetris_Proyect\Tretris\Tretris\bin\Debug\Tretris.exe
+C:\Users\José Manuel\Documents\Universidad\Tetris_Proyect\Tretris\Tretris\bin\Debug\Tretris.pdb
+C:\Users\José Manuel\Documents\Universidad\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.csprojResolveAssemblyReference.cache
+C:\Users\José Manuel\Documents\Universidad\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.tetris.resources
+C:\Users\José Manuel\Documents\Universidad\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.Properties.Resources.resources
+C:\Users\José Manuel\Documents\Universidad\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.csproj.GenerateResource.Cache
+C:\Users\José Manuel\Documents\Universidad\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.exe
+C:\Users\José Manuel\Documents\Universidad\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.pdb
+C:\Users\José Manuel\Documents\Universidad\Tetris_Proyect\Tretris\Tretris\obj\Debug\Tretris.csproj.CoreCompileInputs.cache
+C:\Users\Joosz\Downloads\Tretris\Tretris\Tretris\bin\Debug\Tretris.exe.config
+C:\Users\Joosz\Downloads\Tretris\Tretris\Tretris\bin\Debug\Tretris.exe
+C:\Users\Joosz\Downloads\Tretris\Tretris\Tretris\bin\Debug\Tretris.pdb
+C:\Users\Joosz\Downloads\Tretris\Tretris\Tretris\obj\Debug\Tretris.csprojAssemblyReference.cache
+C:\Users\Joosz\Downloads\Tretris\Tretris\Tretris\obj\Debug\Tretris.tetris.resources
+C:\Users\Joosz\Downloads\Tretris\Tretris\Tretris\obj\Debug\Tretris.Properties.Resources.resources
+C:\Users\Joosz\Downloads\Tretris\Tretris\Tretris\obj\Debug\Tretris.csproj.GenerateResource.cache
+C:\Users\Joosz\Downloads\Tretris\Tretris\Tretris\obj\Debug\Tretris.csproj.CoreCompileInputs.cache
+C:\Users\Joosz\Downloads\Tretris\Tretris\Tretris\obj\Debug\Tretris.exe
+C:\Users\Joosz\Downloads\Tretris\Tretris\Tretris\obj\Debug\Tretris.pdb
