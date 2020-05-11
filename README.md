@@ -1,6 +1,6 @@
 # Tretris
 
-Un tetris que hice al terminar el 3er semestre de la universidad (Enero 2017).
+Un Tetris, que hice en vacaciones (Enero 2017).
 
 Este proyecto lo decidí hacer en las vacaciones de  para concentrar todos los conocimientos que habia adquirido en el semestre sobre el lenguaje C# y el paradigma de Programación Orientado a Objetos. 
 
