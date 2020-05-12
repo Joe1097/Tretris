@@ -10,7 +10,7 @@ Años después me dí cuenta de que había escrito mal el nombre, "Tretris" en v
 
 ### ¿Cómo montar el proyecto?
 
-- Instalar y abrir Visual Studio.
-- Descargar el proyecto.
-- Abrirlo.
-- Iniciar la ejecución.
+- Instala y abre Visual Studio.
+- Descarga el proyecto.
+- Buscalo y ábrelo en VS.
+- Inicia la ejecución.
